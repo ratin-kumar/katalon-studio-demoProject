@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "A976A53A81AAC20852C0AA1078A48475",
+  "keywordClasses": [
+    {
+      "name": "customPackage.CustomKeyword",
+      "keywordMethods": [
+        {
+          "name": "refreshBrowser",
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

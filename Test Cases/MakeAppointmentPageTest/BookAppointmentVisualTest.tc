@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that booking input details should be matched with booked details.</description>
+   <name>BookAppointmentVisualTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b315f2c2-a2a9-444d-a7b9-84b4e4473628</testCaseGuid>
+</TestCaseEntity>

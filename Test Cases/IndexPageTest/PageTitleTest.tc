@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the title of the index page.</description>
+   <name>PageTitleTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3a6dfc8-923e-4b15-aa64-5820b674a124</testCaseGuid>
+   <variable>
+      <defaultValue>'CURA Healthcare Service'</defaultValue>
+      <description>Title of the current web page.</description>
+      <id>03c8c759-bf70-4245-9228-1ab31006e12f</id>
+      <masked>false</masked>
+      <name>expectedTitle</name>
+   </variable>
+</TestCaseEntity>

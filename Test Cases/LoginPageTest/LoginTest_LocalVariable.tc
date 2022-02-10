@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user is able to do successful login.</description>
+   <name>LoginTest_LocalVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1457a9ae-cf66-4b75-ab83-361645ba29f3</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description>Taking data from local variable.</description>
+      <id>f49a7605-3eeb-437a-9a30-f225fe4d6710</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description>Taking data from local variable.</description>
+      <id>a369d29f-6085-4d68-98b2-9d1e3abfafac</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
